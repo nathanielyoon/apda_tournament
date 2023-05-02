@@ -1,0 +1,248 @@
+[
+    {
+        "gov": "Icy Bread",
+        "opp": "Red Sun",
+        "judges": [
+            "Gabbi Shilcusky"
+        ],
+        "room": "ICC 210A"
+    },
+    {
+        "gov": "Spiritually Ill",
+        "opp": "Fish Trophy",
+        "judges": [
+            "Kate Jones"
+        ],
+        "room": "ICC 116"
+    },
+    {
+        "gov": "Nameless Math",
+        "opp": "Morning Dew",
+        "judges": [
+            "Lizzie Waters"
+        ],
+        "room": "ICC 223A"
+    },
+    {
+        "gov": "Spring Wildflower",
+        "opp": "Hate Vegans",
+        "judges": [
+            "Jonas Poggi"
+        ],
+        "room": "ICC 214"
+    },
+    {
+        "gov": "Strawnana Ice",
+        "opp": "Redistribute Height",
+        "judges": [
+            "Sandor Lorange"
+        ],
+        "room": "ICC 103"
+    },
+    {
+        "gov": "Orienteering Extraordinaries",
+        "opp": "Bestie Behavior",
+        "judges": [
+            "Adi Ram"
+        ],
+        "room": "ICC 206A"
+    },
+    {
+        "gov": "Evil Seed",
+        "opp": "Twizzy Rich",
+        "judges": [
+            "Cayleigh Soderholm"
+        ],
+        "room": "ICC 213"
+    },
+    {
+        "gov": "Toad Squared",
+        "opp": "Shared Custody",
+        "judges": [
+            "Nate Sumimoto"
+        ],
+        "room": "ICC 219A"
+    },
+    {
+        "gov": "Oral Master",
+        "opp": "Deceitful Daniels",
+        "judges": [
+            "Zack Cassidy"
+        ],
+        "room": "ICC 212"
+    },
+    {
+        "gov": "Harlot Harlot",
+        "opp": "Done !",
+        "judges": [
+            "Maya Rubin",
+            "Muxi Yu"
+        ],
+        "room": "ICC 206B"
+    },
+    {
+        "gov": "Po Duck",
+        "opp": "Tree Huggers",
+        "judges": [
+            "Cindy Zhao",
+            "Daisy Bateman"
+        ],
+        "room": "ICC 209B"
+    },
+    {
+        "gov": "Duck Chess",
+        "opp": "Wu Nussbaum",
+        "judges": [
+            "Audrey Shing"
+        ],
+        "room": "ICC 106"
+    },
+    {
+        "gov": "Forsooth AF",
+        "opp": "Withered Bonus",
+        "judges": [
+            "Patrick Han"
+        ],
+        "room": "ICC 207B"
+    },
+    {
+        "gov": "White Water",
+        "opp": "Tiny Frog",
+        "judges": [
+            "Ally Ross",
+            "Chris Vanderpool"
+        ],
+        "room": "ICC 208B"
+    },
+    {
+        "gov": "Super Darkness",
+        "opp": "Solitary Truth",
+        "judges": [
+            "Matt Mauriello"
+        ],
+        "room": "ICC 211B"
+    },
+    {
+        "gov": "THR APDA",
+        "opp": "Meaningless Talk",
+        "judges": [
+            "Reed Easterling"
+        ],
+        "room": "ICC 120"
+    },
+    {
+        "gov": "Long Waterfall",
+        "opp": "Overly Profane",
+        "judges": [
+            "Michael Froid"
+        ],
+        "room": "ICC 210B"
+    },
+    {
+        "gov": "Ship Theseus",
+        "opp": "Orient Express",
+        "judges": [
+            "Maxwell Sheremeta"
+        ],
+        "room": "ICC 108"
+    },
+    {
+        "gov": "Finally Smart",
+        "opp": "Good Hustle",
+        "judges": [
+            "Robin Gloss"
+        ],
+        "room": "ICC 208A"
+    },
+    {
+        "gov": "Just Kidding",
+        "opp": "Soft Flower",
+        "judges": [
+            "Joe Clancy"
+        ],
+        "room": "ICC 211A"
+    },
+    {
+        "gov": "Hypelit Sadbois",
+        "opp": "False Prophets",
+        "judges": [
+            "Dennis Su"
+        ],
+        "room": "ICC 231"
+    },
+    {
+        "gov": "Spanish Inquisition",
+        "opp": "Jew Ish",
+        "judges": [
+            "Natalie Caloca"
+        ],
+        "room": "ICC 221A"
+    },
+    {
+        "gov": "Royal Night",
+        "opp": "Manic Panic",
+        "judges": [
+            "Samantha Wong"
+        ],
+        "room": "ICC 234"
+    },
+    {
+        "gov": "Barely Together",
+        "opp": "Sobriety Challenge",
+        "judges": [
+            "Stav Kanza-Levi"
+        ],
+        "room": "ICC 203"
+    },
+    {
+        "gov": "Dark Surf",
+        "opp": "Winter Hat",
+        "judges": [
+            "Rishven Pravin"
+        ],
+        "room": "ICC 202"
+    },
+    {
+        "gov": "Madam Presidents",
+        "opp": "Curly Queen",
+        "judges": [
+            "Karen Li"
+        ],
+        "room": "ICC 209A"
+    },
+    {
+        "gov": "Redacted Ike's",
+        "opp": "Family Values",
+        "judges": [
+            "Maddie Edwards"
+        ],
+        "room": "ICC 217A"
+    },
+    {
+        "gov": "Proud Frog",
+        "opp": "Texas Heg",
+        "judges": [
+            "Ananya Kalahasti"
+        ],
+        "room": "ICC 219B"
+    },
+    {
+        "gov": "Blue Firefly",
+        "opp": "Rail Road",
+        "judges": [
+            "Devesh Kodnani"
+        ],
+        "room": "ICC 205B"
+    },
+    {
+        "gov": "Lesbian Car",
+        "opp": "Crawfish Scampi",
+        "judges": [
+            "Tanay Patri"
+        ],
+        "room": "ICC 205A"
+    },
+    {
+        "bye": "Orange Sun"
+    }
+]
